@@ -1,0 +1,37 @@
+{
+  "strangeProducts" : [
+    {
+      "name" : "Uranium Ore",
+      "price" : 39.95,
+      "details" : "For educational and scientific use only",
+      "image" : "uranium.jpg"
+    },
+
+    {
+      "name" : "Cat Tissue Holder",
+      "price" : 34.94,
+      "details" : "Cat model that has a hole in its butt for people to grab tissues from",
+      "image" : "catbutt.jpg"
+    },
+
+    {
+      "name" : "Peanut butter and jelly of the month club",
+      "price" : 468.96,
+      "details" : "Gourmet peanut butter and jelly sandwiches delivered straight to your door",
+      "image" : "peanutbutterjelly.jpg"
+    },
+    {
+      "name" : "Godzilla garden gnome",
+      "price" : 24.99,
+      "details" : "Garden statue of godzilla killing garden gnomes",
+      "image" : "godzilla.jpg"
+    },
+    {
+      "name" : "A pizza hat",
+      "price" : 11.62,
+      "details" : "A hat that looks like a pizza",
+      "image" : "pizzahat.jpg"
+    }
+
+  ]
+}
